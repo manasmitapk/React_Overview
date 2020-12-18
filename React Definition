@@ -21,3 +21,5 @@ and return HTML whcih describes the UI.
 
 
               
+               ---> Default exports: in these any name can be used to import the component
+               ---> Name exports: in these same name has to be used to import the particular component
