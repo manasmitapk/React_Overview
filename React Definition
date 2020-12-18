@@ -7,3 +7,17 @@ It lets you compose complex UIs from small and isolated pieces of code called â€
 Components are the building blocks of any React app and a typical React app will have many of these. 
 Simply put, a component is a JavaScript class or function that optionally accepts inputs i.e. properties(props)
 and returns a React element that describes how a section of the UI (User Interface) should appear.
+
+Components describe a part of the UI.
+They are re-useable and can be nested into the other components
+These are of two types:
+    1.Stateless Functional Components
+    2.Stateful Class Components
+    
+
+-------------Stateless Functional Components: 
+            These are just javascript functions they can optionally receive an object of properties which is refered to as props 
+and return HTML whcih describes the UI.
+
+
+              
