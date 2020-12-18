@@ -1,0 +1,9 @@
+//In CMD type- npx create-react-app hello-world
+// the code runs and folder is created hello-world
+//cd .\hello-world\
+// npm start
+//app opens in local host:3000
+//in hello world folder enter to app.js file and edit the <p> HELLO WORLD </p>
+//Hello world react app is created
+
+
